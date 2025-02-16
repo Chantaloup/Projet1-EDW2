@@ -1,0 +1,1 @@
+Je suis sur la branche hotfix. Il y a une erreur, tout est beau. Donc je retourne sur la branche main sans oublier de faire le commit.
